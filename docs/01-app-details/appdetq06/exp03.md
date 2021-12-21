@@ -2,7 +2,7 @@
 
 **Risk Level**: Medium
 
- (examples: per server, per CPU) (Medium)
+Examples: per server, per CPU
 
 Using 3rd party solutions required licenses. In a container deployment it should be
 considered how those licenses are counted and if they are unique to a specific
