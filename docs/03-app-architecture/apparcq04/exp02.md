@@ -2,5 +2,4 @@
 
 **Risk Level**: High
 
-TBD
-
+Examples: hardcoded IP addresses, custom cluster management
