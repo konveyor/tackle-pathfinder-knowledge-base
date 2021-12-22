@@ -1,6 +1,6 @@
 # Tackle Pathfinder Knowledge Base
 
-Tackle Pathfinder is one of the open-source tools of the [Konveyor Commnunity](https://www.konveyor.io)
+Tackle Pathfinder is one of the open-source tools of the [Konveyor Community](https://www.konveyor.io)
 to assess your app portfolio to getting containerization recommendations, to automated
 testing for your modernized app into Kubernetes platforms.
 
