@@ -1,6 +1,8 @@
 # Application cannot be restarted cleanly after failure, requires manual intervention
 
-**Risk Level**: High
+<div class="risk-rounded-box high">High</div>
+
+topic for the question **How resilient is the application? How well does it recover from outages and restarts?**.
 
 In a container orchestration platform, such as Kubernetes, containers are started
 and stopped based on external events, while Kubernetes makes sure that deployment

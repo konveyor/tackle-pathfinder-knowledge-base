@@ -1,6 +1,8 @@
 # Configuration files compiled during installation and configured using a user interface
 
-**Risk Level**: High
+<div class="risk-rounded-box high">High</div>
+
+topic for the question **How is the application configured?**.
 
 One of the principles of a container-based application design is the image
 immutability principle[1]. This principle means that a containerized

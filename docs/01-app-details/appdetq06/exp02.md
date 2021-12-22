@@ -1,6 +1,8 @@
 # Multiple legal and licensing requirements
 
-**Risk Level**: High
+<div class="risk-rounded-box high">High</div>
+
+topic for the question **Does the application have legal and/or licensing requirements?**.
 
 If the application is deployed with a specific licensing needed this can
 affect the deployment of the application and running it.

@@ -1,6 +1,8 @@
 # Minimal automated testing, focused on the user interface
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **How is the application tested?**.
 
 Testing is a very important topic to make sure that our application is
 functioning properly, secure, and can be used without any unexpected errors

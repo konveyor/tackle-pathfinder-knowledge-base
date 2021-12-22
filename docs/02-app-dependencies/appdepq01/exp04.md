@@ -1,5 +1,9 @@
-# Requires specific computer hardware (examples: GPUs, RAM, HDDs)
+# Requires specific computer hardware
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **Does the application require specific hardware?**.
+
+Examples: GPUs, RAM, HDDs
 
 TBD

@@ -1,6 +1,8 @@
 # Unknown
 
-**Risk Level**: Unknown
+<div class="risk-rounded-box unknown">Unknown</div>
+
+topic for the question **How is the application configured?**.
 
 The current knowledge or experience does not allow us to measure the risk of this
 question. There is a lack of knowledge or experience that could have (or not) an

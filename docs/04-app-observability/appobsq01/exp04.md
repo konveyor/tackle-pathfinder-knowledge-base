@@ -1,6 +1,8 @@
 # Logs are exposed using syslog
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **How does the application use logging and how are the logs accessed?**.
 
 Using syslog for messaging logging on Linux systems represents a good starting point
 on the observability space. This tool offers mechanisms for the developer or

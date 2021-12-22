@@ -1,6 +1,8 @@
 # 1-2 minutes
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **How long does it take the application to be ready to handle traffic?**.
 
 This range of startup time has been marked as “Medium” (so, a possible risk or,
 at least area for improvement) because in a container environment, application

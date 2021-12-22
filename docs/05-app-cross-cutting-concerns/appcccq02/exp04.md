@@ -1,5 +1,7 @@
 # Multiple configuration files in multiple file system locations
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **How is the application configured?**.
 
 TBD

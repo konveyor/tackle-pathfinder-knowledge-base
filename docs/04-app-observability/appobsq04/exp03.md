@@ -1,6 +1,8 @@
 # Sensitive to latency
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **What best describes the application's runtime characteristics?**.
 
 Kubernetes uses a Scheduler[1] to determine placement of Pods onto Nodes based
 on availability of compute resources and even distribution of load across the

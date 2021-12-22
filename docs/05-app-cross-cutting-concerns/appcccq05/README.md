@@ -2,11 +2,11 @@
 
 Answers, Risk and Explanations:
 
-* [Unknown](./05-app-cross-cutting-concerns/appcccq05/exp01.md)
-* [Bare metal server (Low)](./05-app-cross-cutting-concerns/appcccq05/exp02.md)
-* Virtual machine (examples: Red Hat Virtualization, VMware) (Low)
-* Private cloud (example: Red Hat OpenStack Platform) (Low)
-* Public cloud provider (examples: Amazon Web Services, Microsoft Azure, Google Cloud Platform) (Low)
-* [Platform as a service (examples: Heroku, Force.com, Google App Engine) (Medium)](./05-app-cross-cutting-concerns/appcccq05/exp06.md)
-* Hybrid cloud (public and private cloud providers) (Low)
-* [Other. Specify in the comments field (Medium)](./05-app-cross-cutting-concerns/appcccq05/exp08.md)
+* [Unknown](./05-app-cross-cutting-concerns/appcccq05/exp01.md)<div class="risk-box unknown"></div>
+* [Bare metal server](./05-app-cross-cutting-concerns/appcccq05/exp02.md)<div class="risk-box low"></div>
+* Virtual machine<div class="risk-box low"></div>
+* Private cloud<div class="risk-box low"></div>
+* Public cloud provider<div class="risk-box low"></div>
+* [Platform as a Service](./05-app-cross-cutting-concerns/appcccq05/exp06.md)<div class="risk-box medium"></div>
+* Hybrid cloud<div class="risk-box low"></div>
+* [Others](./05-app-cross-cutting-concerns/appcccq05/exp08.md)<div class="risk-box medium"></div>

@@ -1,6 +1,8 @@
 # Separate internal support team, separate from the development team, with little interaction between the teams
 
-**Risk Level**: High
+<div class="risk-rounded-box high">High</div>
+
+topic for the question **How is the application supported in production?**.
 
 Having support operations split between disparate teams with little interaction will
 ultimately slow down the support process and incident handling.

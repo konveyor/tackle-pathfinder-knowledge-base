@@ -1,8 +1,10 @@
 # Metrics exposed using binary protocols
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
 
-Examples: SNNP, JMX
+topic for the question **Does the application provide metrics?**.
+
+Examples: SNTP, JMX
 
 As a good practice[1], the application provides endpoints to expose
 application-specific metrics, however these endpoints use binary protocols

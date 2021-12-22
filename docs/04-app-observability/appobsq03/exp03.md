@@ -1,6 +1,8 @@
 # Monitored and managed by a custom watchdog process
 
-**Risk Level**: High
+<div class="risk-rounded-box high">High</div>
+
+topic for the question **How easy is it to determine the application's health and readiness to handle traffic?**.
 
 Using custom watchdog processes represent a mature practice for the operation
 or administration team to identify when the application is not ready or healthy

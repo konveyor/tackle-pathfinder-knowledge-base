@@ -1,6 +1,8 @@
 # Less than once every 6 months
 
-**Risk Level**: High
+<div class="risk-rounded-box high">High</div>
+
+topic for the question **How often is the application deployed to production?**.
 
 If a very low deployment frequency is caused by lack of build automation,
 testing complexity or complex processes that need to be followed, it is considered

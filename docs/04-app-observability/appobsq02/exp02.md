@@ -1,6 +1,8 @@
 # No metrics available
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **Does the application provide metrics?**.
 
 As a good practice, an application should provide endpoints to expose
 application-specific metrics, beyond simple data such as memory usage[1].

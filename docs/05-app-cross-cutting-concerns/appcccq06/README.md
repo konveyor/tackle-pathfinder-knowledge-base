@@ -2,8 +2,8 @@
 
 Answers, Risk and Explanations:
 
-* [Unknown](./05-app-cross-cutting-concerns/appcccq06/exp01.md)
-* [Application runs in a container on a laptop or desktop (High)](./05-app-cross-cutting-concerns/appcccq06/exp02.md)
-* [Some experience with containers but not yet fully defined (High)](./05-app-cross-cutting-concerns/appcccq06/exp03.md)
-* Proficient with containers and container platforms (examples: Swarm, Kubernetes) (Low)
-* Application containerization has not yet been attempted (Low)
+* [Unknown](./05-app-cross-cutting-concerns/appcccq06/exp01.md)<div class="risk-box unknown"></div>
+* [Application runs in a container on a laptop or desktop](./05-app-cross-cutting-concerns/appcccq06/exp02.md)<div class="risk-box high"></div>
+* [Some experience with containers but not yet fully defined](./05-app-cross-cutting-concerns/appcccq06/exp03.md)<div class="risk-box high"></div>
+* Proficient with containers and container platforms<div class="risk-box low"></div>
+* Application containerization has not yet been attempted<div class="risk-box low"></div>

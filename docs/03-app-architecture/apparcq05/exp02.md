@@ -1,6 +1,8 @@
 # Manually configured clustering
 
-**Risk Level**: High
+<div class="risk-rounded-box high">High</div>
+
+topic for the question **How is the application clustering managed?**.
 
 Examples: static clusters
 

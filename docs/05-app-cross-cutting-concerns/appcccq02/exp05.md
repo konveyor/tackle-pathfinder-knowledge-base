@@ -1,6 +1,8 @@
 # Configuration files built into the application and enabled using system properties at runtime
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **How is the application configured?**.
 
 One of the principles of a container-based application design is the image
 immutability principle[1]. This principle means that a containerized application

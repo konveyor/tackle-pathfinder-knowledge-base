@@ -2,9 +2,9 @@
 
 Answers, Risk and Explanations:
 
-* [Unknown](./03-app-architecture/apparcq02/exp01.md)
-* [Non-TCP/IP protocols (examples: serial, IPX, AppleTalk) (High)](./03-app-architecture/apparcq02/exp02.md)
-* [TCP/IP, with host name or IP address encapsulated in the payload (High)](./03-app-architecture/apparcq02/exp03.md)
-* [TCP/UDP without host addressing (example: SSH) (Medium)](./03-app-architecture/apparcq02/exp04.md)
-* TCP/UDP encapsulated, using TLS with SNI header (Low)
-* HTTP/HTTPS (Low)
+* [Unknown](./03-app-architecture/apparcq02/exp01.md)<div class="risk-box unknown"></div>
+* [Non-TCP/IP protocols](./03-app-architecture/apparcq02/exp02.md)<div class="risk-box high"></div>
+* [TCP/IP, with host name or IP address encapsulated in the payload](./03-app-architecture/apparcq02/exp03.md)<div class="risk-box high"></div>
+* [TCP/UDP without host addressing](./03-app-architecture/apparcq02/exp04.md)<div class="risk-box medium"></div>
+* TCP/UDP encapsulated, using TLS with SNI header<div class="risk-box low"></div>
+* HTTP/HTTPS<div class="risk-box low"></div>

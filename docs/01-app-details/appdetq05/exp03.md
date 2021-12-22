@@ -1,6 +1,8 @@
 # 1 month or more
 
-**Risk Level**: High
+<div class="risk-rounded-box high">High</div>
+
+topic for the question **What is the application's mean time to recover (MTTR) from failure in a production environment?**.
 
 A Container orchestration platform, such as Kubernetes, provides tools and
 capabilities to identify the health and status of an application, in order

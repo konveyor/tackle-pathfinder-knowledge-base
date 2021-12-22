@@ -1,6 +1,8 @@
 # Massive monolith (high memory and CPU usage), singleton deployment, vertical scale only
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **Which model best describes the application architecture?**.
 
 The application has been designed in a traditional, monolithic architecture
 with a restriction about the number of instances running. The application

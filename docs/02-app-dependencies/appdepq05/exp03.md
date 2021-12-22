@@ -1,5 +1,7 @@
-# 
+# Dependencies require a complex and strict startup order
 
-**Risk Level**: 
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **Outgoing/southbound dependencies**.
 
 TBD

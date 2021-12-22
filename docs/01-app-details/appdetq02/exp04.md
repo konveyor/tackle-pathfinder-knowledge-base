@@ -1,6 +1,8 @@
 # Multiple teams provide support using an established escalation model
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **How is the application supported in production?**.
 
 Production support and operations follow the traditional separation between
 Development and Operation, with an established escalation process.

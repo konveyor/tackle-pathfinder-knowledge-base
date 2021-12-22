@@ -1,6 +1,8 @@
 # Logs are in a custom binary format, exposed with non-standard protocols
 
-**Risk Level**: High
+<div class="risk-rounded-box high">High</div>
+
+topic for the question **How does the application use logging and how are the logs accessed?**.
 
 Using custom binary log format or exposing with non-standard protocols could
 require adding complex integrations between the container orchestration platform,

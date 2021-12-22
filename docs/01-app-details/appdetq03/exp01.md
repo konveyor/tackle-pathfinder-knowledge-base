@@ -1,6 +1,8 @@
 # Unknown
 
-**Risk Level**: Unknown
+<div class="risk-rounded-box unknown">Unknown</div>
+
+topic for the question **How much time passes from when code is committed until the application is deployed to production?**.
 
 The current knowledge or experience does not allow us to measure the risk of this
 question. There is a lack of knowledge or experience that could have (or not) an

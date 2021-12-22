@@ -1,6 +1,8 @@
 # Configuration retrieved from an external server
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **How is the application configured?**.
 
 Examples: Spring Cloud Config Server, HashiCorp Consul
 

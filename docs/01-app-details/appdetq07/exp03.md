@@ -1,6 +1,8 @@
 # Massive monolith (high memory and CPU usage), non-singleton deployment, complex to scale horizontally
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **Which model best describes the application architecture?**.
 
 The application has been designed in a traditional, monolithic architecture -
 however, it is not complex to scale horizontally, as a Load Balancer in front of

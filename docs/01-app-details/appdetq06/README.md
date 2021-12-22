@@ -2,9 +2,8 @@
 
 Answers, Risk and Explanations:
 
-* [Unknown](./01-app-details/appdetq06/exp01.md)
-* [Multiple legal and licensing requirements (High)](./01-app-details/appdetq06/exp02.md)
-* [Licensing requirements (examples: per server, per CPU) (Medium)](./01-app-details/appdetq06/exp03.md)
-* [Legal requirements (examples: cluster isolation, hardware, PCI or HIPAA compliance) (Medium)](./01-app-details/appdetq06/exp04.md)
-* None (Low)
- 
+* [Unknown](./01-app-details/appdetq06/exp01.md)<div class="risk-box unknown"></div>
+* [Multiple legal and licensing requirements](./01-app-details/appdetq06/exp02.md)<div class="risk-box high"></div>
+* [Licensing requirements](./01-app-details/appdetq06/exp03.md)<div class="risk-box medium"></div>
+* [Legal requirements](./01-app-details/appdetq06/exp04.md)<div class="risk-box medium"></div>
+* None<div class="risk-box low"></div>

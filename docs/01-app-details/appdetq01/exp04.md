@@ -1,5 +1,7 @@
 # Maintenance mode, SME knowledge is available
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **Does the application development team understand and actively develop the application?**.
 
 TBD

@@ -1,5 +1,7 @@
-# 
+# Dependency availability only verified when application is processing traffic
 
-**Risk Level**: 
+<div class="risk-rounded-box high">High</div>
+
+topic for the question **Outgoing/southbound dependencies**.
 
 TBD

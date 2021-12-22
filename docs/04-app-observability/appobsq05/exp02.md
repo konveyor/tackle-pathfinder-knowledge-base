@@ -1,6 +1,8 @@
 # More than 5 minutes
 
-**Risk Level**: High
+<div class="risk-rounded-box high">High</div>
+
+topic for the question **How long does it take the application to be ready to handle traffic?**.
 
 The time the application takes to be ready from the moment of starting the
 deployment may affect the availability of the applications during any new

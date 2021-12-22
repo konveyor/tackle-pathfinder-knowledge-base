@@ -1,6 +1,8 @@
 # 2-5 minutes
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **How long does it take the application to be ready to handle traffic?**.
 
 The time the application takes to be ready from the moment of starting the
 deployment may affect the availability of the applications during any new

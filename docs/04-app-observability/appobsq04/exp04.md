@@ -1,5 +1,7 @@
 #  Constant traffic with a broad range of CPU and memory usage
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **What best describes the application's runtime characteristics?**.
 
 TBD

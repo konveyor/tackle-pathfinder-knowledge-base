@@ -1,6 +1,8 @@
 # Not tracked
 
-**Risk Level**: High
+<div class="risk-rounded-box high">High</div>
+
+topic for the question **What is the application's mean time to recover (MTTR) from failure in a production environment?**.
 
 Not tracking this time represents a lack of improvement in the application life
 cycle in general, but could have an impact on the benefits for this application

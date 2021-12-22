@@ -1,6 +1,8 @@
 # Some automated unit and regression testing, basic CI/CD pipeline testing; modern test practices are not followed
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **How is the application tested?**.
 
 The development and build stages are heavily making use of Unit Testing, since
 the application development could follow a TDD (Test Driven Development)

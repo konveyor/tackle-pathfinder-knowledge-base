@@ -1,6 +1,8 @@
 # Application functionality is limited when a dependency is unavailable but recovers when the dependency is available
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **How resilient is the application? How well does it recover from outages and restarts?**.
 
 In a container orchestration environment, such as Kubernetes, containers are started
 and stopped based on external events, while Kubernetes makes sure that deployment

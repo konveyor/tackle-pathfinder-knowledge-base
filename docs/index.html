@@ -10,6 +10,8 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
 </head>
 <body>
+  <div class="app-header"></div>
+
   <div id="app"></div>
 
   <script>
@@ -21,11 +23,12 @@
       loadNavbar: false,
       mergeNavbar: false,
       loadSidebar: true,
-      subMaxLevel: 4,
-      sidebarDisplayLevel: 4,      
+      subMaxLevel: 0,
+      sidebarDisplayLevel: 0,
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
-      },      
+      },
+      loadFooter: true,
       search: 'auto',      
       themeable: {
           readyTransition : true, // default
@@ -47,6 +50,51 @@
   <!-- docsify plugins -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
-  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>  
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <style>
+    .app-header {
+      color: #fff;
+      text-align: center;
+      background-color: #1f2067;
+      background-image: linear-gradient(90deg, #3b3c93, #1f2067);
+      height: 70px;
+    }
+    
+    .risk-box {
+      float: left;
+      width: 10px;
+      height: 10px;
+      margin: 5px;
+      border: 1px solid rgba(0, 0, 0, .2);
+    }
+
+    .risk-rounded-box {
+      margin: auto;
+      text-align: center;
+      vertical-align: middle;
+      border-radius: 20px;
+      padding: 5px;
+      /*width: 80px;*/
+      height: 30px;      
+    }
+
+    .low {
+      background: rgb(104, 178, 64);
+    }
+
+    .medium {
+      background: rgb(240, 171, 11);
+    }
+
+    .high {
+      background: rgb(203, 68, 13);
+    }
+
+    .unknown {
+      background: rgb(184, 187, 190);
+    }
+  </style>
 </body>
 </html>

@@ -1,6 +1,8 @@
 # Not tracked
 
-**Risk Level**: High
+<div class="risk-rounded-box high">High</div>
+
+topic for the question **How much time passes from when code is committed until the application is deployed to production?**.
 
 Not tracking this time represents a lack of improvement in the application life
 cycle in general, but could have an impact on the benefits for this application

@@ -1,6 +1,8 @@
 # No health or readiness query functionality available
 
-**Risk Level**: High
+<div class="risk-rounded-box high">High</div>
+
+topic for the question **How easy is it to determine the application's health and readiness to handle traffic?**.
 
 In a container orchestration platform, such as Kubernetes, containers will be
 started and stopped based on a number of events, such as evacuating a worker

@@ -1,5 +1,7 @@
 # Simple automated deployment scripts
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **How is the application deployed?**.
 
 TBD

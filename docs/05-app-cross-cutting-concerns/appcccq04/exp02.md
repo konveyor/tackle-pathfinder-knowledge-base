@@ -1,6 +1,8 @@
 # Manual deployment using a user interface
 
-**Risk Level**: High
+<div class="risk-rounded-box high">High</div>
+
+topic for the question **How is the application deployed?**.
 
 Deploying an application on Kubernetes requires a higher degree of automation
 than is currently available. Technically, an application can be deployed manually,

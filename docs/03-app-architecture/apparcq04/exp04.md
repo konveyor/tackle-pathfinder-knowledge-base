@@ -1,6 +1,8 @@
 # Uses technologies that are compatible with Kubernetes but require specific libraries or services 
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **How does the application handle service discovery?**.
 
 These technologies, and others similar, are compatible with a container orchestration
 platform, such as Kubernetes, however they add additional complexity and match with

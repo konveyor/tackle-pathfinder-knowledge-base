@@ -1,6 +1,8 @@
 # Requires an application or cluster restart to discover new service instances
 
-**Risk Level**: High
+<div class="risk-rounded-box high">High</div>
+
+topic for the question **How does the application handle service discovery?**.
 
 The application is currently deployed in VMs or bare metal, using a traditional,
 properties-file based configuration paradigm, including the locations/addresses

@@ -1,5 +1,7 @@
 # Linux with custom kernel drivers or a specific kernel version
 
-**Risk Level**: High
+<div class="risk-rounded-box high">High</div>
+
+topic for the question **What operating system does the application require?**.
 
 TBD

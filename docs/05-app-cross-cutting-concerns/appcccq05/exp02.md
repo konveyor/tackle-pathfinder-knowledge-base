@@ -1,5 +1,7 @@
 # Bare metal server
 
-**Risk Level**: Low
+<div class="risk-rounded-box low">Low</div>
+
+topic for the question **Where is the application deployed?**.
 
 TBD

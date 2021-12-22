@@ -1,5 +1,7 @@
 # Vendor supports their application running in containers but you must build your own images
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **Does the vendor provide support for a third-party component running in a container?**.
 
 TBD

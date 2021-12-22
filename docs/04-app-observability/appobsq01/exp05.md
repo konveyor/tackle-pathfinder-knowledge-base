@@ -1,6 +1,8 @@
 # Logs are written to a file system, sometimes as multiple files
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **How does the application use logging and how are the logs accessed?**.
 
 Logging is a very important way for the developer or operator to debug and
 investigate the application. Using a file system, or multiple files is a

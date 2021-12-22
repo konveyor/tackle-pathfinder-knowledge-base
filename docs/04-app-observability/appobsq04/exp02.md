@@ -1,6 +1,8 @@
 # Deterministic and predictable real-time execution or control requirements
 
-**Risk Level**: High
+<div class="risk-rounded-box high">High</div>
+
+topic for the question **What best describes the application's runtime characteristics?**.
 
 Containers rely on operating system features and do not require a virtualization
 layer (hypervisor) that introduces a performance degradation. This capability

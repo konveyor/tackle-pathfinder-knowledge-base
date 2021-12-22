@@ -1,6 +1,8 @@
 # Logs are unavailable or are internal with no way to export them
 
-**Risk Level**: High
+<div class="risk-rounded-box high">High</div>
+
+topic for the question **How does the application use logging and how are the logs accessed?**.
 
 Logging is a very important way for the developer or operator to debug and
 investigate the application. Without logs there is a big gap in the observability

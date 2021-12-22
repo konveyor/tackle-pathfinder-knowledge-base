@@ -1,6 +1,8 @@
 # Legal requirements
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **Does the application have legal and/or licensing requirements?**.
 
 Examples: cluster isolation, hardware, PCI or HIPAA compliance
 

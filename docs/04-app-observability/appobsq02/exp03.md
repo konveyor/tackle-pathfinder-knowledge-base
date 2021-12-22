@@ -1,6 +1,8 @@
 # Metrics collected but not exposed externally
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **Does the application provide metrics?**.
 
 As a good practice[1], the application provides endpoints to expose
 application-specific metrics, however these endpoints are not exposed

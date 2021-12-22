@@ -1,6 +1,8 @@
 # Basic application health requires semi-complex scripting
 
-**Risk Level**: Medium
+<div class="risk-rounded-box medium">Medium</div>
+
+topic for the question **How easy is it to determine the application's health and readiness to handle traffic?**.
 
 Using health scripts represents a basic practice for the operation or
 administration team to identify when the application is not ready or healthy
