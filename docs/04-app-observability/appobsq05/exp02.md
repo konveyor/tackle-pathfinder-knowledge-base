@@ -27,5 +27,5 @@ under all circumstances, these principles should guide refactoring efforts
 and strategies.
 
 References:
-[1. Using deployment strategies](https://docs.openshift.com/container-platform/4.8/applications/deployments/deployment-strategies.html)
-[2. The Twelve-Factor App](https://12factor.net/)
+1. [Using deployment strategies](https://docs.openshift.com/container-platform/4.8/applications/deployments/deployment-strategies.html)
+2. [The Twelve-Factor App](https://12factor.net/)

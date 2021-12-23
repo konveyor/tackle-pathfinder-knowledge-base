@@ -31,9 +31,9 @@ making your application metrics consumable by Prometheus and visualizing
 on a Grafana Dashboard[6] is straightforward.
 
 References:
-[1. Principles of container-based application design - section “HOP” - High Observability Principle](https://www.redhat.com/en/resources/cloud-native-container-design-whitepaper)
-[2. Understanding Red Hat OpenShift's Application Monitoring Operator](https://developers.redhat.com/blog/2019/09/10/understanding-red-hat-openshifts-application-monitoring-operator)
-[3. Kubernetes - Horizontal Pod Autoscaler](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
-[4. Prometheus - Monitoring system & time series database](https://prometheus.io/docs/instrumenting/exporters/)
-[5. Prometheus - Exporters and Integrations](https://prometheus.io/docs/instrumenting/exporters/)
-[6. Custom Grafana dashboards for Red Hat OpenShift Container Platform 4](https://www.redhat.com/en/blog/custom-grafana-dashboards-red-hat-openshift-container-platform-4)
+1. [Principles of container-based application design - section “HOP” - High Observability Principle](https://www.redhat.com/en/resources/cloud-native-container-design-whitepaper)
+2. [Understanding Red Hat OpenShift's Application Monitoring Operator](https://developers.redhat.com/blog/2019/09/10/understanding-red-hat-openshifts-application-monitoring-operator)
+3. [Kubernetes - Horizontal Pod Autoscaler](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
+4. [Prometheus - Monitoring system & time series database](https://prometheus.io/docs/instrumenting/exporters/)
+5. [Prometheus - Exporters and Integrations](https://prometheus.io/docs/instrumenting/exporters/)
+6. [Custom Grafana dashboards for Red Hat OpenShift Container Platform 4](https://www.redhat.com/en/blog/custom-grafana-dashboards-red-hat-openshift-container-platform-4)

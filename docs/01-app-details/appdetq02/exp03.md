@@ -19,5 +19,5 @@ is a recent book publication “DevOps Culture and Practice with OpenShift”[2]
 that provides deep insights into this approach and its benefits.
 
 References:
-[1. DevOps Culture and Practice Enablement](https://www.redhat.com/en/services/training/do500-devops-culture-and-practice-enablement)
-[2. DevOps Culture and Practice with OpenShift](https://www.packtpub.com/product/devops-culture-and-practice-with-openshift/9781800202368)
+1. [DevOps Culture and Practice Enablement](https://www.redhat.com/en/services/training/do500-devops-culture-and-practice-enablement)
+2. [DevOps Culture and Practice with OpenShift](https://www.packtpub.com/product/devops-culture-and-practice-with-openshift/9781800202368)

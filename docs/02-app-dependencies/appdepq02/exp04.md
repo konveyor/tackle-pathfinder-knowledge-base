@@ -40,8 +40,8 @@ if an updated version of the base image (e.g. due to a fixed CVE) is
 available - or even trigger a build process and automated deployment.
 
 References:
-[1. Just say no to root (in containers)](https://opensource.com/article/18/3/just-say-no-root-containers)
-[2. Kubernetes Services](https://kubernetes.io/docs/concepts/services-networking/service/)
-[3. NGINX Image](https://catalog.redhat.com/software/containers/ubi8/nginx-118/5f521a6f9dd2d5ca7158e5dc)
-[4. Universal Base Images](https://catalog.redhat.com/software/containers/ubi8/nginx-118/5f521a6f9dd2d5ca7158e5dc)
-[5. Managing image streams](https://docs.openshift.com/container-platform/4.8/openshift_images/image-streams-manage.html)
+1. [Just say no to root (in containers)](https://opensource.com/article/18/3/just-say-no-root-containers)
+2. [Kubernetes Services](https://kubernetes.io/docs/concepts/services-networking/service/)
+3. [NGINX Image](https://catalog.redhat.com/software/containers/ubi8/nginx-118/5f521a6f9dd2d5ca7158e5dc)
+4. [Universal Base Images](https://catalog.redhat.com/software/containers/ubi8/nginx-118/5f521a6f9dd2d5ca7158e5dc)
+5. [Managing image streams](https://docs.openshift.com/container-platform/4.8/openshift_images/image-streams-manage.html)

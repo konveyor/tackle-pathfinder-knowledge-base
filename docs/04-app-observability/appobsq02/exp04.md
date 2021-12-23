@@ -32,10 +32,10 @@ available, making your application metrics consumable by Prometheus
 and visualizing on a Grafana Dashboard[7] is straightforward.
 
 References:
-[1. Principles of container-based application design - section “HOP” - High Observability Principle](https://www.redhat.com/en/resources/cloud-native-container-design-whitepaper)
-[2. Prometheus - Monitoring system & time series database](https://prometheus.io/)
-[3. Understanding Red Hat OpenShift's Application Monitoring Operator](https://developers.redhat.com/blog/2019/09/10/understanding-red-hat-openshifts-application-monitoring-operator)
-[4. Kubernetes - Horizontal Pod Autoscaler](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
-[5. Jolokia - JMX-HTTP Bridge](https://jolokia.org/)
-[6. Prometheus - Exporters and Integrations](https://prometheus.io/docs/instrumenting/exporters/)
-[7. Custom Grafana dashboards for Red Hat OpenShift Container Platform 4](https://www.redhat.com/en/blog/custom-grafana-dashboards-red-hat-openshift-container-platform-4)
+1. [Principles of container-based application design - section “HOP” - High Observability Principle](https://www.redhat.com/en/resources/cloud-native-container-design-whitepaper)
+2. [Prometheus - Monitoring system & time series database](https://prometheus.io/)
+3. [Understanding Red Hat OpenShift's Application Monitoring Operator](https://developers.redhat.com/blog/2019/09/10/understanding-red-hat-openshifts-application-monitoring-operator)
+4. [Kubernetes - Horizontal Pod Autoscaler](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
+5. [Jolokia - JMX-HTTP Bridge](https://jolokia.org/)
+6. [Prometheus - Exporters and Integrations](https://prometheus.io/docs/instrumenting/exporters/)
+7. [Custom Grafana dashboards for Red Hat OpenShift Container Platform 4](https://www.redhat.com/en/blog/custom-grafana-dashboards-red-hat-openshift-container-platform-4)

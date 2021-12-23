@@ -26,5 +26,5 @@ As the application could run on Kubernetes, this risk is marked as “Medium”
 in order to address best approaches.
 
 References:
-[1. Principles of container-based application design - Image Immutability Principle](https://www.redhat.com/en/resources/cloud-native-container-design-whitepaper)
-[2. Configure a Pod to Use a ConfigMap](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/)
+1. [Principles of container-based application design - Image Immutability Principle](https://www.redhat.com/en/resources/cloud-native-container-design-whitepaper)
+2. [Configure a Pod to Use a ConfigMap](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/)

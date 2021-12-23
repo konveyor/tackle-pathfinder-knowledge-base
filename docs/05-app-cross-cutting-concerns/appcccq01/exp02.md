@@ -21,5 +21,5 @@ Selenium, etc[2] to incorporate automated testing in your
 delivery / deployment pipelines.
 
 References:
-[1. Elements of an OpenShift CI/CD Pipeline](http://v1.uncontained.io/playbooks/continuous_delivery/ci-cd-elements.html)
-[2. Introduction to BDD and TDD](https://cucumber.io/blog/bdd/intro-to-bdd-and-tdd/)
+1. [Elements of an OpenShift CI/CD Pipeline](http://v1.uncontained.io/playbooks/continuous_delivery/ci-cd-elements.html)
+2. [Introduction to BDD and TDD](https://cucumber.io/blog/bdd/intro-to-bdd-and-tdd/)

@@ -33,6 +33,6 @@ This risk needs to be addressed before deploying any production-grade
 services with this gap.
 
 References:
-[1. Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html)
-[2. Configure Liveness, Readiness and Startup Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/)
-[3. Liveness and Readiness Probes](https://cloud.redhat.com/blog/liveness-and-readiness-probes)
+1. [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html)
+2. [Configure Liveness, Readiness and Startup Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/)
+3. [Liveness and Readiness Probes](https://cloud.redhat.com/blog/liveness-and-readiness-probes)

@@ -12,5 +12,5 @@ anti-affinity rules[2] for certain (high burstable) pods within the application
 might be advisable. 
 
 References:
-[1. Kubernetes Scheduler](https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/)
-[2. Assigning Pods to Nodes](https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/)
+1. [Kubernetes Scheduler](https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/)
+2. [Assigning Pods to Nodes](https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/)

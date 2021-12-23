@@ -27,5 +27,5 @@ are desirable. Therefore, this finding has been marked as “High” in
 the assessment report.
 
 References:
-[1. Configure Liveness, Readiness and Startup Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/)
-[2. Liveness and Readiness Probes](https://cloud.redhat.com/blog/liveness-and-readiness-probes)
+1. [Configure Liveness, Readiness and Startup Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/)
+2. [Liveness and Readiness Probes](https://cloud.redhat.com/blog/liveness-and-readiness-probes)

@@ -31,5 +31,5 @@ requirements, and it will be needed to adapt them accordingly.
 Therefore, this finding has been marked as “Medium” in the assessment report.
 
 References:
-[1. Monitoring application health by using health checks](https://docs.openshift.com/container-platform/4.8/applications/application-health.html)
-[2. Liveness and Readiness Probes](https://cloud.redhat.com/blog/liveness-and-readiness-probes)
+1. [Monitoring application health by using health checks](https://docs.openshift.com/container-platform/4.8/applications/application-health.html)
+2. [Liveness and Readiness Probes](https://cloud.redhat.com/blog/liveness-and-readiness-probes)

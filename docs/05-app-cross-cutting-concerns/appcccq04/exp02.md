@@ -29,6 +29,6 @@ Therefore, we highlight this as a high risk item that should be amended
 during a migration.
 
 References:
-[1. Understanding OpenShift pipelines](https://docs.openshift.com/container-platform/4.8/cicd/pipelines/understanding-openshift-pipelines.html)
-[2. Kubernetes Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
-[3. Introduction to GitOps with OpenShift](https://cloud.redhat.com/blog/introduction-to-gitops-with-openshift)
+1. [Understanding OpenShift pipelines](https://docs.openshift.com/container-platform/4.8/cicd/pipelines/understanding-openshift-pipelines.html)
+2. [Kubernetes Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
+3. [Introduction to GitOps with OpenShift](https://cloud.redhat.com/blog/introduction-to-gitops-with-openshift)

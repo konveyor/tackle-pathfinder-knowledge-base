@@ -22,7 +22,7 @@ complex and this is the reason this topic is marked as “High” to be resolved
 going to production.
 
 References:
-[1. Kubernetes - Cluster Architecture](https://kubernetes.io/docs/concepts/architecture/)
-[2. Kubernetes Scheduler](https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/)
-[3. Kubernetes - Taints and Tolerations](https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/)
-[4. Kubernetes - Resource Quotas](https://kubernetes.io/docs/concepts/policy/resource-quotas/)
+1. [Kubernetes - Cluster Architecture](https://kubernetes.io/docs/concepts/architecture/)
+2. [Kubernetes Scheduler](https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/)
+3. [Kubernetes - Taints and Tolerations](https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/)
+4. [Kubernetes - Resource Quotas](https://kubernetes.io/docs/concepts/policy/resource-quotas/)

@@ -20,6 +20,6 @@ and if using these can satisfy all the requirements that the application may hav
 reducing operational and maintenance complexity.
 
 References:
-[1. Spring Boot Microservices on Red Hat OpenShift Container Platform](https://access.redhat.com/documentation/en-us/reference_architectures/2017/html-single/spring_boot_microservices_on_red_hat_openshift_container_platform_3/index)
-[2. Spring on Kubernetes](https://cloud.redhat.com/learn/topics/spring)
-[3. Configure a Pod to Use a ConfigMap](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/)
+1. [Spring Boot Microservices on Red Hat OpenShift Container Platform](https://access.redhat.com/documentation/en-us/reference_architectures/2017/html-single/spring_boot_microservices_on_red_hat_openshift_container_platform_3/index)
+2. [Spring on Kubernetes](https://cloud.redhat.com/learn/topics/spring)
+3. [Configure a Pod to Use a ConfigMap](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/)

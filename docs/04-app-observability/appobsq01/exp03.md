@@ -24,7 +24,7 @@ dashboards. This platform feature [4] allows the application to delegate the log
 management to the platform, instead of them.
 
 References:
-[1. Principles of container-based application design - High Observability Principle](https://www.redhat.com/en/resources/cloud-native-container-design-whitepaper)
-[2. Logging Architecture](https://kubernetes.io/docs/concepts/cluster-administration/logging/)
-[3. Introduction to the OpenShift 4 Logging Stack](https://cloud.redhat.com/blog/introduction-to-the-openshift-4-logging-stack)
-[4. Understanding Red Hat OpenShift Logging](https://docs.openshift.com/container-platform/4.8/logging/cluster-logging.html)
+1. [Principles of container-based application design - High Observability Principle](https://www.redhat.com/en/resources/cloud-native-container-design-whitepaper)
+2. [Logging Architecture](https://kubernetes.io/docs/concepts/cluster-administration/logging/)
+3. [Introduction to the OpenShift 4 Logging Stack](https://cloud.redhat.com/blog/introduction-to-the-openshift-4-logging-stack)
+4. [Understanding Red Hat OpenShift Logging](https://docs.openshift.com/container-platform/4.8/logging/cluster-logging.html)

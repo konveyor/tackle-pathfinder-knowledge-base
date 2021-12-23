@@ -25,5 +25,5 @@ using smaller, decoupled components. While not all of these are achievable under
 all circumstances, these principles should guide refactoring efforts and strategies.
 
 References:
-[1. What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
-[2. The Twelve-Factor App](https://12factor.net/)
+1. [What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
+2. [The Twelve-Factor App](https://12factor.net/)

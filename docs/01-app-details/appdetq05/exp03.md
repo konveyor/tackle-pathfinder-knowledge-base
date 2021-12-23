@@ -32,6 +32,6 @@ Using tools like Pelorus[3] will help to get that metrics, among others,
 to optimize the value stream of the application.
 
 References:
-[1. Exploring a Metrics-Driven approach to transformation](https://cloud.redhat.com/blog/exploring-a-metrics-driven-approach-to-transformation)
-[2. Kubernetes - Configure Liveness, Readiness and Startup Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/)
-[3. Pelorus](https://pelorus.readthedocs.io/en/latest/#software-delivery-performance-as-an-outcome)
+1. [Exploring a Metrics-Driven approach to transformation](https://cloud.redhat.com/blog/exploring-a-metrics-driven-approach-to-transformation)
+2. [Kubernetes - Configure Liveness, Readiness and Startup Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/)
+3. [Pelorus](https://pelorus.readthedocs.io/en/latest/#software-delivery-performance-as-an-outcome)

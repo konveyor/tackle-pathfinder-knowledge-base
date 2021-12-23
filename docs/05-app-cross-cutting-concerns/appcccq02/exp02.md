@@ -20,5 +20,5 @@ This risk needs to be addressed before deploying any production-grade
 services with this gap.
 
 References:
-[1. Principles of container-based application design - Image Immutability Principle](https://www.redhat.com/en/resources/cloud-native-container-design-whitepaper)
-[2. Configure a Pod to Use a ConfigMap](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/)
+1. [Principles of container-based application design - Image Immutability Principle](https://www.redhat.com/en/resources/cloud-native-container-design-whitepaper)
+2. [Configure a Pod to Use a ConfigMap](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/)

@@ -21,7 +21,7 @@ best approach to integrate the current syslog mechanisms with the
 logging capabilities provided by the container orchestration platform.
 
 References:
-[1. Principles of container-based application design - High Observability Principle](https://www.redhat.com/en/resources/cloud-native-container-design-whitepaper)
-[2. Logging Architecture](https://kubernetes.io/docs/concepts/cluster-administration/logging/)
-[3. Introduction to the OpenShift 4 Logging Stack](https://cloud.redhat.com/blog/introduction-to-the-openshift-4-logging-stack)
-[4. Understanding Red Hat OpenShift Logging](https://docs.openshift.com/container-platform/4.8/logging/cluster-logging.html)
+1. [Principles of container-based application design - High Observability Principle](https://www.redhat.com/en/resources/cloud-native-container-design-whitepaper)
+2. [Logging Architecture](https://kubernetes.io/docs/concepts/cluster-administration/logging/)
+3. [Introduction to the OpenShift 4 Logging Stack](https://cloud.redhat.com/blog/introduction-to-the-openshift-4-logging-stack)
+4. [Understanding Red Hat OpenShift Logging](https://docs.openshift.com/container-platform/4.8/logging/cluster-logging.html)

@@ -31,8 +31,8 @@ Blue/Green Deployments are possible.
 
 References:
 
-[1. Kubernetes - Pod](https://kubernetes.io/docs/concepts/workloads/pods/)
-[2. Kubernetes - Service](https://kubernetes.io/docs/concepts/services-networking/service/)
-[3. Using route-based deployment strategies](https://docs.openshift.com/container-platform/4.8/applications/deployments/route-based-deployment-strategies.html)
-[4. Configuring ingress cluster traffic using an Ingress Controller](https://docs.openshift.com/container-platform/4.8/networking/configuring_ingress_cluster_traffic/configuring-ingress-cluster-traffic-ingress-controller.html)
-[5. Understanding Red Hat OpenShift Service Mesh](https://docs.openshift.com/container-platform/4.8/service_mesh/v1x/ossm-architecture.html)
+1. [Kubernetes - Pod](https://kubernetes.io/docs/concepts/workloads/pods/)
+2. [Kubernetes - Service](https://kubernetes.io/docs/concepts/services-networking/service/)
+3. [Using route-based deployment strategies](https://docs.openshift.com/container-platform/4.8/applications/deployments/route-based-deployment-strategies.html)
+4. [Configuring ingress cluster traffic using an Ingress Controller](https://docs.openshift.com/container-platform/4.8/networking/configuring_ingress_cluster_traffic/configuring-ingress-cluster-traffic-ingress-controller.html)
+5. [Understanding Red Hat OpenShift Service Mesh](https://docs.openshift.com/container-platform/4.8/service_mesh/v1x/ossm-architecture.html)
