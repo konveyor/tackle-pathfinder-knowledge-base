@@ -10,11 +10,11 @@ node for maintenance, rollout of a new configuration, etc.
 
 To avoid service interruptions for the service consumer, Kubernetes will
 continuously verify that a container is ready to receive traffic (readiness probe)
-and is healthy (i.e. not in a deadlocked state, etc).
+and is healthy (liveness probe)(i.e. not in a deadlocked state, etc).
 
 How Kubernetes reacts on probe failure can be configured individually, however
 as a prerequisite, these probes need to be implemented by the application. A good
-example for a readiness probe is for example a http “/health” endpoint that will
+example for a readiness probe is for example a HTTP “/health” endpoint that will
 only return a valid status after all server components have been started and
 initialized.
 
