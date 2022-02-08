@@ -19,10 +19,11 @@ A service that takes very long to start needs to have more parallel instances
 continuously running to mitigate possible breaks or service degradation, since
 Kubernetes cannot start up new instances fast enough, should a problem occur.
 
-An ideal container-based application should follow the 12-Factor App principles[2], using smaller, decoupled components. While not all of these are achievable
+An ideal container-based application should follow the 12-Factor App principles[2],
+using smaller, decoupled components. While not all of these are achievable
 under all circumstances, these principles should guide refactoring efforts
 and strategies.
 
 References:
-1. [Using deployment strategies](https://docs.openshift.com/container-platform/4.8/applications/deployments/deployment-strategies.html)
+1. [Kubernetes Deployment Strategies](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#strategy)
 2. [The Twelve-Factor App](https://12factor.net/)

@@ -25,6 +25,6 @@ under all circumstances, these principles should guide refactoring efforts
 and strategies.
 
 References:
-1. [Using deployment strategies](https://docs.openshift.com/container-platform/4.8/applications/deployments/deployment-strategies.html)
-2. [Deployments Configuration](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#scaling-a-deployment)
+1. [Kubernetes Deployment Strategies](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#strategy)
+2. [Kubernetes Deployments Scaling](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#scaling-a-deployment)
 3. [The Twelve-Factor App](https://12factor.net/)
