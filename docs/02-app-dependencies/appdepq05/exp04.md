@@ -5,7 +5,8 @@
 topic for the question **Outgoing/southbound dependencies**.
 
 In a container orchestration environment, such as Kubernetes, containers must include
-all the dependencies needed to start up and run successfully. However many times the
+all the dependencies needed to start up and run successfully (aligned with the 
+Self-Containment Principle of container-based application design[1]). However many times the
 application inside the container requires external dependencies, that they could
 not be available.
 
@@ -18,12 +19,13 @@ architecture where it is itself serving as a dependency to other services.
 Generally speaking, applications should implement cloud-native patterns to manage
 the availability of the dependencies. Samples of these patterns:
 
-* Circuit Breaker pattern[1] to break cascading failures
+* Circuit Breaker pattern[2] to break cascading failures
 * Retries policies 
-* Readiness Probe[2] to signal a not-ready state, causing the container platform block any
+* Readiness Probe[3] to signal a not-ready state, causing the container platform block any
 incoming traffic to the container.
-* Liveness Probe[2] to signal a failed state, causing the container platform to restart it.
+* Liveness Probe[3] to signal a failed state, causing the container platform to restart it.
 
 References:
-1. [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html)
-2. [Configure Liveness, Readiness and Startup Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/)
+1. [Principles of container-based application design](https://www.redhat.com/en/resources/cloud-native-container-design-whitepaper)
+2. [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html)
+3. [Configure Liveness, Readiness and Startup Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/)
