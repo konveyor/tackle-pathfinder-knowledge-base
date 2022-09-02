@@ -36,3 +36,6 @@ Please, review the [Contribution Guide](./CONTRIBUTING.md) to get more details.
 Changes approved and pushed to main will automatically be published to the docs site.
 
 **Easy starting point**: Find an entry with the `TBD` block, that is a great place to start. :tada:
+
+## Code of Conduct
+Refer to Konveyor's Code of Conduct [here](https://github.com/konveyor/community/blob/main/CODE_OF_CONDUCT.md).
