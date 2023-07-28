@@ -1,4 +1,6 @@
 # Tackle Pathfinder Knowledge Base
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Ftackle-pathfinder-knowledge-base.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Ftackle-pathfinder-knowledge-base?ref=badge_shield)
+
 
 Tackle Pathfinder is one of the open-source tools of the [Konveyor Community](https://www.konveyor.io)
 to assess your app portfolio to getting containerization recommendations, to automated
@@ -39,3 +41,7 @@ Changes approved and pushed to main will automatically be published to the docs 
 
 ## Code of Conduct
 Refer to Konveyor's Code of Conduct [here](https://github.com/konveyor/community/blob/main/CODE_OF_CONDUCT.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Ftackle-pathfinder-knowledge-base.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Ftackle-pathfinder-knowledge-base?ref=badge_large)
